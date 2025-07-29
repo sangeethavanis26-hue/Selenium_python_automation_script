@@ -1,0 +1,3 @@
+Apple is red.
+Banana is yellow.
+Mango is sweet.
